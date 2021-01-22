@@ -1,0 +1,22 @@
+{
+  "name": "app_development",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kotapatikk/app_development.git"
+  },
+  "author": "Krishtaiah K",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kotapatikk/app_development/issues"
+  },
+  "homepage": "https://github.com/kotapatikk/app_development#readme",
+  "dependencies": {
+    "react": "^17.0.1"
+  }
+}
