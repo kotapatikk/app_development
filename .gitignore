@@ -1,8 +1,16 @@
 # Compiled class file
 *.class
+.vscode/
+package-lock.json
+
+# dependencies
+/node_modules
+/.pnp
+.pnp.js
 
 # Log file
 *.log
+npm-debug.log*
 
 # BlueJ files
 *.ctxt
